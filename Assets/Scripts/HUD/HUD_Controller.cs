@@ -15,6 +15,7 @@ public class HUD_Controller : MonoBehaviour
     //[SerializeField] private Image axeUI;
     //[SerializeField] private Image shovelUI;
     //[SerializeField] private Image bucketUI;
+    //[SerializeField] private Image swordUI;
     // Ctrl+k+c para comentar trecho de código e Ctrl+k+u
     public List<Image> toolsUI = new List<Image>();
     [SerializeField] private Color selectColor;

@@ -96,6 +96,11 @@ public class PlayerAnim : MonoBehaviour
         {
             anim.SetInteger("transition", 5);
         }
+
+        if (player.isAttacking)
+        {
+            anim.SetInteger("transition", 6);
+        }
     }
 
     void OnRun()
@@ -158,7 +163,15 @@ public class PlayerAnim : MonoBehaviour
         {
             anim.SetTrigger("hit");
             isHitting = true;
+            player.currentHealth--;
+            player.healthBar.fillAmount = player.currentHealth / player.totalhealth;
         }
-        
+        if(player.currentHealth <= 0)
+        {
+            anim.SetBool("isDead", true);
+            player.GetComponent<Player>().enabled = false;
+            player.GetComponent<BoxCollider2D>().enabled = false;
+        }
+
     }
 }

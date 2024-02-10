@@ -40,7 +40,7 @@ public class AnimationControl : MonoBehaviour
     public void OnHit()
     {
         
-        if(skeleton.currentHealth <= 0)
+        if(skeleton.currentHealth < 1)
         {
             skeleton.isDead = true;
             anim.SetTrigger("death");

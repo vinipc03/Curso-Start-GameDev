@@ -16,21 +16,46 @@ MonoBehaviour:
   speakerSprite: {fileID: 0}
   sentence: 
   dialogues:
-  - actorName: Hero
-    profile: {fileID: -5244714908019811940, guid: 944ec126d69cc9b42a1cdcb0e3ca44f3, type: 3}
+  - actorName: NPC
+    profile: {fileID: 21300000, guid: a2a66460cd6512e4aabb687861644a49, type: 3}
     sentence:
-      portuguese: "Ol\xE1!"
-      english: Hi there!
-      spanish: "Hola cabr\xF3n"
-  - actorName: "Mo\xE7a"
-    profile: {fileID: 951739465742405775, guid: 65caa6ac5495515479d002546aff56e7, type: 3}
+      portuguese: "Ol\xE1! Aqui nesse projeto voc\xEA pode realizar as seguintes
+        atividades"
+      english: 
+      spanish: 
+  - actorName: NPC
+    profile: {fileID: 21300000, guid: a2a66460cd6512e4aabb687861644a49, type: 3}
     sentence:
-      portuguese: Tudo bem?
-      english: how are you?
-      spanish: Que passa?
-  - actorName: Hero
-    profile: {fileID: 3026430599455344041, guid: 15a875fbe1a023341955c4975e8abe22, type: 3}
+      portuguese: "Aqui voc\xEA pode plantar cenuras coletando \xE1gua perto do lago
+        pressionando E."
+      english: 
+      spanish: 
+  - actorName: NPC
+    profile: {fileID: 21300000, guid: a2a66460cd6512e4aabb687861644a49, type: 3}
     sentence:
-      portuguese: "Tudo \xF3timo"
+      portuguese: "Depois vc deve cavar um buraco na terra do cercado a esquerda
+        e depois regar com \xE1gua."
+      english: 
+      spanish: 
+  - actorName: NPC
+    profile: {fileID: 21300000, guid: a2a66460cd6512e4aabb687861644a49, type: 3}
+    sentence:
+      portuguese: "Tamb\xE9m pode coletar madeira cortando as \xE1vores com o machado
+        e udar elas para contruir uma casa no espa\xE7o aqui em baixo."
+      english: 
+      spanish: 
+  - actorName: NPC
+    profile: {fileID: 21300000, guid: a2a66460cd6512e4aabb687861644a49, type: 3}
+    sentence:
+      portuguese: "Voc\xEA tamb\xE9m pode pescar na parte superior do lago pressionando
+        E."
+      english: 
+      spanish: 
+  - actorName: NPC
+    profile: {fileID: 21300000, guid: a2a66460cd6512e4aabb687861644a49, type: 3}
+    sentence:
+      portuguese: "E cuidado com o cemit\xE9rio na parte direita inferior do mapa,
+        tem muitos esqueletos l\xE1, a espada \xE9 melhor e mais r\xE1pida contra
+        eles. Fique a vontade para explorar!"
       english: 
       spanish: 

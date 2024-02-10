@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
 public class Player : MonoBehaviour
@@ -9,7 +10,10 @@ public class Player : MonoBehaviour
     
     [SerializeField] private float speed;
     [SerializeField] private float runSpeed;
-    
+    public float totalhealth;
+    public float currentHealth;
+    public Image healthBar;
+
     private Rigidbody2D rig;
     private PlayerItems playerItems;
 
@@ -20,6 +24,8 @@ public class Player : MonoBehaviour
     private bool _isCutting;
     private bool _isDigging;
     private bool _isWatering;
+    private bool _isDead;
+    private bool _isAttacking;
 
     private Vector2 _direction;
 
@@ -31,6 +37,17 @@ public class Player : MonoBehaviour
         set { _direction = value; }
     }
 
+    public bool isDead
+    {
+        get { return _isDead; }
+        set { _isDead = value; }
+    }
+
+    public bool isAttacking
+    {
+        get { return _isAttacking; }
+        set { _isAttacking = value; }
+    }
     public bool isRunning
     {
         get { return _isRunning; }
@@ -67,6 +84,7 @@ public class Player : MonoBehaviour
         rig = GetComponent<Rigidbody2D>();
         playerItems = GetComponent<PlayerItems>();
         initialSpeed = speed;
+        totalhealth = currentHealth;
     }
 
     private void Update()
@@ -91,12 +109,19 @@ public class Player : MonoBehaviour
 
             }
 
+            if (Input.GetKeyDown(KeyCode.Alpha4))
+            {
+                handlingObj = 3;
+
+            }
+
             OnInput();
             OnRun();
             OnRolling();
             OnCutting();
             OnDig();
             OnWatering();
+            OnAttacking();
         }
 
         if (Input.GetKeyDown(KeyCode.Space))
@@ -117,6 +142,28 @@ public class Player : MonoBehaviour
 
     #region movement
 
+    void OnAttacking()
+    {
+        if (handlingObj == 3)
+        {
+            if (Input.GetMouseButtonDown(0))
+            {
+                isAttacking = true;
+                speed = 0f;
+            }
+
+            if (Input.GetMouseButtonUp(0))
+            {
+                isAttacking = false;
+                speed = initialSpeed;
+            }
+        }
+        else
+        {
+            isAttacking = false; //para a animação e troca para outro item
+        }
+
+    }
     void OnWatering()
     {
         if (handlingObj == 2)

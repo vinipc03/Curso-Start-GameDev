@@ -1,7 +1,193 @@
 fileFormatVersion: 2
 guid: 30be7fd0c8362d742968941c5fe33c0c
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -3275984221689208128
+    second: spr_sword_strip10_0
+  - first:
+      213: 7903266434643022590
+    second: spr_sword_strip10_1
+  - first:
+      213: -4767766899591251786
+    second: spr_sword_strip10_2
+  - first:
+      213: 8853583550196782780
+    second: spr_sword_strip10_3
+  - first:
+      213: 1706106435869659556
+    second: spr_sword_strip10_4
+  - first:
+      213: 8085397664348719002
+    second: spr_sword_strip10_5
+  - first:
+      213: -6445490219534953958
+    second: spr_sword_strip10_6
+  - first:
+      213: 933139586790131009
+    second: spr_sword_strip10_7
+  - first:
+      213: 4828501978083523534
+    second: spr_sword_strip10_8
+  - first:
+      213: 7809128796388357317
+    second: spr_sword_strip10_9
+  - first:
+      213: -6187332232179523138
+    second: spr_sword_strip10_10
+  - first:
+      213: -7810658715250180011
+    second: spr_sword_strip10_11
+  - first:
+      213: 2036137867946371605
+    second: spr_sword_strip10_12
+  - first:
+      213: -1134529018923248228
+    second: spr_sword_strip10_13
+  - first:
+      213: -2302026200318899534
+    second: spr_sword_strip10_14
+  - first:
+      213: -415405415706101463
+    second: spr_sword_strip10_15
+  - first:
+      213: 6254170928426547526
+    second: spr_sword_strip10_16
+  - first:
+      213: -3849495701508510914
+    second: spr_sword_strip10_17
+  - first:
+      213: 1236693550811256071
+    second: spr_sword_strip10_18
+  - first:
+      213: -5020328007240453406
+    second: spr_sword_strip10_19
+  - first:
+      213: 1175899442584265973
+    second: spr_sword_strip10_20
+  - first:
+      213: -3026502748302404255
+    second: spr_sword_strip10_21
+  - first:
+      213: -5078673679998543052
+    second: spr_sword_strip10_22
+  - first:
+      213: 5629243552750708530
+    second: spr_sword_strip10_23
+  - first:
+      213: -8570382976347283974
+    second: spr_sword_strip10_24
+  - first:
+      213: 4536510574921917545
+    second: spr_sword_strip10_25
+  - first:
+      213: 8469408720429587582
+    second: spr_sword_strip10_26
+  - first:
+      213: -8647879684524045271
+    second: spr_sword_strip10_27
+  - first:
+      213: -3668987423771826084
+    second: spr_sword_strip10_28
+  - first:
+      213: -9044918224022397090
+    second: spr_sword_strip10_29
+  - first:
+      213: -5039386245107804684
+    second: spr_sword_strip10_30
+  - first:
+      213: -5122394280060909625
+    second: spr_sword_strip10_31
+  - first:
+      213: 3591099883173337531
+    second: spr_sword_strip10_32
+  - first:
+      213: 2084893673982783106
+    second: spr_sword_strip10_33
+  - first:
+      213: -4571352961625626939
+    second: spr_sword_strip10_34
+  - first:
+      213: -8958998115505530519
+    second: spr_sword_strip10_35
+  - first:
+      213: 1311455974256729306
+    second: spr_sword_strip10_36
+  - first:
+      213: -7710115609287909317
+    second: spr_sword_strip10_37
+  - first:
+      213: 4921359181213150175
+    second: spr_sword_strip10_38
+  - first:
+      213: 3385376106397995925
+    second: spr_sword_strip10_39
+  - first:
+      213: 5590126649108934921
+    second: spr_sword_strip10_40
+  - first:
+      213: -8378634340477720459
+    second: spr_sword_strip10_41
+  - first:
+      213: 4427538955212882146
+    second: spr_sword_strip10_42
+  - first:
+      213: 3527594269977036688
+    second: spr_sword_strip10_43
+  - first:
+      213: 5166260942763188916
+    second: spr_sword_strip10_44
+  - first:
+      213: -8365865886919080317
+    second: spr_sword_strip10_45
+  - first:
+      213: 4908042317414785622
+    second: spr_sword_strip10_46
+  - first:
+      213: 352812269208259104
+    second: spr_sword_strip10_47
+  - first:
+      213: -1119438738894005911
+    second: spr_sword_strip10_48
+  - first:
+      213: 5172400715286024967
+    second: spr_sword_strip10_49
+  - first:
+      213: 263679226772353010
+    second: spr_sword_strip10_50
+  - first:
+      213: -5788429936070857027
+    second: spr_sword_strip10_51
+  - first:
+      213: 3256259662314456174
+    second: spr_sword_strip10_52
+  - first:
+      213: 6313290274938181000
+    second: spr_sword_strip10_53
+  - first:
+      213: -8795319663226074558
+    second: spr_sword_strip10_54
+  - first:
+      213: 3228492225263247895
+    second: spr_sword_strip10_55
+  - first:
+      213: 845237612227028797
+    second: spr_sword_strip10_56
+  - first:
+      213: 3931831722908171597
+    second: spr_sword_strip10_57
+  - first:
+      213: 6442897721143917690
+    second: spr_sword_strip10_58
+  - first:
+      213: -7987102271273021881
+    second: spr_sword_strip10_59
+  - first:
+      213: -2384787052649197586
+    second: spr_sword_strip10_60
+  - first:
+      213: 293258177169422575
+    second: spr_sword_strip10_61
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -87,7 +273,217 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: spr_sword_strip10_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c22e6015bd5982d0800000000000000
+      internalID: -3275984221689208128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_sword_strip10_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef25a22f2fa0ead60800000000000000
+      internalID: 7903266434643022590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_sword_strip10_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b87ff9f34d75ddb0800000000000000
+      internalID: -4767766899591251786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_sword_strip10_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb698b2a45f3eda70800000000000000
+      internalID: 8853583550196782780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_sword_strip10_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1d40b93ce4da710800000000000000
+      internalID: 1706106435869659556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_sword_strip10_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a974743665a153070800000000000000
+      internalID: 8085397664348719002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_sword_strip10_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a125d558bc40d86a0800000000000000
+      internalID: -6445490219534953958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_sword_strip10_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1450b7c928d23fc00800000000000000
+      internalID: 933139586790131009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_sword_strip10_8
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb70f077f8420340800000000000000
+      internalID: 4828501978083523534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_sword_strip10_9
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4700a04499f5c60800000000000000
+      internalID: 7809128796388357317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
